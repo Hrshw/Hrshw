@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hrshw
-- 👀 I’m interested in php, javaScript, HTML, CSS, Bootstrap, TailwindCSS, mysql, DBMS, reactJs
+- 👋 Hi, I’m @Rahul SIngh Shekhawat.
+- 👀 I’m interested in php, javaScript, HTML, CSS, Bootstrap, TailwindCSS, mysql, DBMS, reactJs.
 - 🌱 I’m currently learning all these languages for doing professnaly work, Also I'm learing NodeJs, ExpressJs.
 
 <!---
