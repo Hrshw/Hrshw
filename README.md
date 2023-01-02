@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahul SIngh Shekhawat.
 - 👀 I’m interested in php, javaScript, HTML, CSS, Bootstrap, TailwindCSS, mysql, DBMS, reactJs.
-- 🌱 I’m currently learning all these languages for doing professnaly work, Also I'm learing NodeJs, ExpressJs.
+- 🌱 I’m currently learning all these languages for doing professnaly work, Also I'm learing NodeJs and ExpressJs.
 
 <!---
 Hrshw/Hrshw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
