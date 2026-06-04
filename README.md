@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# ☁️ Founder @ Observyze | Cloud Engineer | Full Stack Developer
+# ☁️ Observyze | Cloud Engineer | Full Stack Developer
 
 Building AI-powered cloud products, observability platforms, and scalable AWS infrastructure.
 
