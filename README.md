@@ -192,7 +192,7 @@ Focused on scalable, cost-efficient cloud-native architectures.
 
 <p align="left">
 <a href="https://github.com/Hrshw">GitHub</a> •
-<a href="www.linkedin.com/in/rahul-singh-shekhawat-b4ba481ab">LinkedIn</a>
+<a href="https://linkedin.com/in/rahul-singh-shekhawat-b4ba481ab">LinkedIn</a>
 </p>
 
 ---
